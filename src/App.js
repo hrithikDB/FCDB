@@ -1,8 +1,11 @@
 import React from "react";
-import "./App.css";
 
 function App() {
-  return <div>Hi</div>;
+  return (
+    <div className="flex justify-center items-center h-screen font-playfair text-5xl font-semibold bg-gradient-to-b from-orange-500 via-green-500 to-cyan-600">
+      Hi
+    </div>
+  );
 }
 
 export default App;
