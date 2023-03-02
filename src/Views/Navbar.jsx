@@ -7,7 +7,7 @@ const Navbar = () => {
     {
       id: 1,
       menuItem: "Fiverr Business",
-      Link: "/",
+      Link: "/fiverrBusiness",
     },
     {
       id: 2,
